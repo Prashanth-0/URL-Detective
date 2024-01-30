@@ -28,7 +28,7 @@ cd URL-Detective
 
 Run the script:
 ```bash
-python3  URL.py
+python3 URL.py
 ```
 
 Choose an option:
