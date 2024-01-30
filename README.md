@@ -24,4 +24,5 @@ Choose an option:
 - Option 1: URL Extractor
 - Option 2: WHOIS Lookup
 - Option 3: Exit
+
 Follow the prompts to input the required information.
