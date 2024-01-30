@@ -4,10 +4,15 @@ URLDetective is a CLI Python script crafted to explore web pages, extract URLs, 
 ## Features
 
 **URL Extraction:**
+
 - Crawl web pages and seamlessly extract internal and external URLs.
+
 **WHOIS Lookup:**
+
 - Retrieve detailed domain information using WHOIS.
+
 **User-Friendly Interface:**
+
 - Simple options for URL extraction, WHOIS lookup, and program exit.
 
 ## Prerequisites
