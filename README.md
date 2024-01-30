@@ -3,11 +3,11 @@ URLDetective is a CLI Python script crafted to explore web pages, extract URLs, 
 
 ## Features
 
-URL Extraction:
+**URL Extraction:**
 - Crawl web pages and seamlessly extract internal and external URLs.
-WHOIS Lookup:
+**WHOIS Lookup:**
 - Retrieve detailed domain information using WHOIS.
-User-Friendly Interface:
+**User-Friendly Interface:**
 - Simple options for URL extraction, WHOIS lookup, and program exit.
 
 ## Prerequisites
@@ -26,12 +26,12 @@ git clone https://github.com/Prashanth-0/URL-Detective.git
 
 cd URL-Detective
 
-Run the script:
+**Run the script:**
 ```bash
 python3 URL.py
 ```
 
-Choose an option:
+**Choose an option:**
 - Option 1: URL Extractor
 - Option 2: WHOIS Lookup
 - Option 3: Exit
