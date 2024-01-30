@@ -29,7 +29,9 @@ pip install requests beautifulsoup4 python-whois colorama pyfiglet
 git clone https://github.com/Prashanth-0/URL-Detective.git
 ```
 
+```bash
 cd URL-Detective
+```
 
 **Run the script:**
 ```bash
