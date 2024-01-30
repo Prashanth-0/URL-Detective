@@ -15,18 +15,21 @@ User-Friendly Interface:
 Ensure you have the necessary Python libraries installed:
 
 ```bash
-pip install requests beautifulsoup4 python-whois colorama pyfiglet```
+pip install requests beautifulsoup4 python-whois colorama pyfiglet
+```
 
 ## Usage
 
 ```bash
-git clone https://github.com/Prashanth-0/URL-Detective.git```
+git clone https://github.com/Prashanth-0/URL-Detective.git
+```
 
 cd URL-Detective
 
 Run the script:
 ```bash
-python3  URL.py```
+python3  URL.py
+```
 
 Choose an option:
 - Option 1: URL Extractor
