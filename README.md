@@ -1,6 +1,5 @@
 # URL-Detective
 
-![Downloads](https://img.shields.io/pypi/dm/URL-Detective)
 
 URLDetective is a CLI Python script crafted to explore web pages, extract URLs, and perform WHOIS lookups for comprehensive domain details. This tool provides a straightforward and user-friendly solution for uncovering internal and external links on a website, along with in-depth WHOIS information for specified domains
 
